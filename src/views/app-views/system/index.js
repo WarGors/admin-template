@@ -8,7 +8,7 @@ const System = ({ match }) => {
     <Switch>
       <Route path={`${match.url}/settings`} component={lazy(() => import(`./settings`))} />
       <Route path={`${match.url}/mobile`} component={lazy(() => import(`./mobile`))} />
-      <Route path={`${match.url}/logs`} component={lazy(() => import(`./logs`))} />
+      <Route path={`${match.url}/logs`} component={lazy(() => import(`./SysLogs`))} />
       <Redirect from={`${match.url}`} to={`${match.url}/settings`} />
     </Switch>
   </Suspense>
