@@ -1,5 +1,30 @@
 {
-	"home": "Home",
+	"home": "Главная",
+	"dashboard": "Основные",
+	"dashboard.home": "Дашборд",
+	"dashboard.catalogue": "Каталог",
+	"dashboard.catalogue.products": "Товары",
+	"dashboard.catalogue.categories": "Категории",
+	"dashboard.catalogue.collections": "Коллекции",
+	"dashboard.catalogue.combo": "Комбо",
+	"dashboard.orders": "Заказы",
+	"dashboard.clients": "Клиенты",
+	"dashboard.clients.list": "Список клиентов",
+	"dashboard.clients.groups": "Группы клиентов",
+	"dashboard.banners": "Баннеры",
+	"dashboard.promocodes": "Промокоды",
+	"dashboard.offline": "Офлайн точки",
+	"dashboard.offline.adresses": "Адреса",
+	"dashboard.offline.geozones": "Геозоны",
+	"dashboard.employees": "Сотрудники",
+	"dashboard.messages": "Рассылки",
+
+
+	"system": "Системные",
+	"system.settings": "Настройки",
+	"system.mobile": "Мобильное приложение",
+	"system.logs": "Логи",
+	
 	
 	"sidenav.dashboard": "Dashboard",
 	"sidenav.dashboard.default": "Default",

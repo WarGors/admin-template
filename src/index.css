@@ -15,3 +15,9 @@
 .loading .ant-spin {
   color: #3e79f7;
 }
+.loading.cover-users {
+  height: 65vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
